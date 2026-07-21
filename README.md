@@ -1,7 +1,7 @@
 👾 Código em C++ desenvolvido para o evento EsalqShow 2026, com o intuito de dismistificar a tecnologia usando o arduino, voltando o projeto ao público interno e externo
 à ESALQ (de crianças à adultos). O projeto consiste na alternância de iluminação entre dois LEDs (vermelho e verde) acompanhada por emissão de frequências sonoras via buzzer.
 
-💡 COMPONENTES UTILIZADOS
+# 💡 COMPONENTES UTILIZADOS
 
 - Placa Arduino Uno
 - Protoboard
